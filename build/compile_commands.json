@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Acceptor.o -c /data/jazh/Muduo/Acceptor.cc",
+  "file": "/data/jazh/Muduo/Acceptor.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Buffer.o -c /data/jazh/Muduo/Buffer.cc",
+  "file": "/data/jazh/Muduo/Buffer.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Callbacks.o -c /data/jazh/Muduo/Callbacks.cc",
+  "file": "/data/jazh/Muduo/Callbacks.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Channel.o -c /data/jazh/Muduo/Channel.cc",
+  "file": "/data/jazh/Muduo/Channel.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/CurrentThread.o -c /data/jazh/Muduo/CurrentThread.cc",
+  "file": "/data/jazh/Muduo/CurrentThread.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/DefaultPoller.o -c /data/jazh/Muduo/DefaultPoller.cc",
+  "file": "/data/jazh/Muduo/DefaultPoller.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/EPollPoller.o -c /data/jazh/Muduo/EPollPoller.cc",
+  "file": "/data/jazh/Muduo/EPollPoller.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/EventLoop.o -c /data/jazh/Muduo/EventLoop.cc",
+  "file": "/data/jazh/Muduo/EventLoop.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/EventLoopThread.o -c /data/jazh/Muduo/EventLoopThread.cc",
+  "file": "/data/jazh/Muduo/EventLoopThread.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/EventLoopThreadPool.o -c /data/jazh/Muduo/EventLoopThreadPool.cc",
+  "file": "/data/jazh/Muduo/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/InetAddress.o -c /data/jazh/Muduo/InetAddress.cc",
+  "file": "/data/jazh/Muduo/InetAddress.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Logger.o -c /data/jazh/Muduo/Logger.cc",
+  "file": "/data/jazh/Muduo/Logger.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Poller.o -c /data/jazh/Muduo/Poller.cc",
+  "file": "/data/jazh/Muduo/Poller.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Socket.o -c /data/jazh/Muduo/Socket.cc",
+  "file": "/data/jazh/Muduo/Socket.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/TcpConnection.o -c /data/jazh/Muduo/TcpConnection.cc",
+  "file": "/data/jazh/Muduo/TcpConnection.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/TcpServer.o -c /data/jazh/Muduo/TcpServer.cc",
+  "file": "/data/jazh/Muduo/TcpServer.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Thread.o -c /data/jazh/Muduo/Thread.cc",
+  "file": "/data/jazh/Muduo/Thread.cc"
+},
+{
+  "directory": "/data/jazh/Muduo/build",
+  "command": "/usr/local/bin/g++  -DMuduo_EXPORTS   -g -std=c++11 -fPIC -g -fPIC   -o CMakeFiles/Muduo.dir/Timestamp.o -c /data/jazh/Muduo/Timestamp.cc",
+  "file": "/data/jazh/Muduo/Timestamp.cc"
+}
+]
